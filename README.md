@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0229-majority-element-ii) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0088-merge-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0414-third-maximum-number) |
 ## Math
