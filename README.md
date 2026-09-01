@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0414-third-maximum-number) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0162-find-peak-element) |
 | [0493-reverse-pairs](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0540-single-element-in-a-sorted-array) |
