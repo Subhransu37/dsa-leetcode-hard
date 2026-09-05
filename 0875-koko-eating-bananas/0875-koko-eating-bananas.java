@@ -16,7 +16,7 @@ class Solution {
                 hrs += (int)Math.ceil((double)n / mid);
             }
 
-            if(hrs <= h && mid != 0  ){
+            if(hrs <= h && mid != 0 ){
                 es = mid ;
                 e = mid - 1 ;
             }
