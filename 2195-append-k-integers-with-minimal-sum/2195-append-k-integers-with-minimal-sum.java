@@ -1,7 +1,5 @@
 class Solution {
-    public long suma(long a ,long b ){
-        return ( a* (2 *b + a - 1)) /2 ; 
-    }
+   
     public long minimalKSum(int[] nums, int k) {
         Arrays.sort(nums);
         long sum = 0 ;
@@ -15,12 +13,12 @@ class Solution {
                     noofinsert = k ;
                     k = 0 ; 
                 }
-                sum += suma(noofinsert , s) ; 
+                sum += ( noofinsert* (2 *s + noofinsert - 1)) /2 ;; 
             }
             s = nums[i] + 1 ;
         }
         if(k > 0 ){
-            sum += suma(k , s );
+            sum += ( k* (2 *s + k - 1)) /2 ;;
         }
         return sum ;        
     }
