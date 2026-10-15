@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/2195-append-k-integers-with-minimal-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,11 +67,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0414-third-maximum-number) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/2195-append-k-integers-with-minimal-sum) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0069-sqrtx) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/2195-append-k-integers-with-minimal-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -128,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0069-sqrtx) |
+## Greedy
+|  |
+| ------- |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/2195-append-k-integers-with-minimal-sum) |
 <!---LeetCode Topics End-->
