@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2305-fair-distribution-of-cookies](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/2305-fair-distribution-of-cookies) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0410-split-array-largest-sum) |
+| [2305-fair-distribution-of-cookies](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/2305-fair-distribution-of-cookies) |
 ## Counting
 |  |
 | ------- |
@@ -143,4 +145,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0410-split-array-largest-sum) |
+## Backtracking
+|  |
+| ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/2305-fair-distribution-of-cookies) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/2305-fair-distribution-of-cookies) |
+## Bitmask
+|  |
+| ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/2305-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
