@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/1539-kth-missing-positive-number) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2305-fair-distribution-of-cookies](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/2305-fair-distribution-of-cookies) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/0410-split-array-largest-sum) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [2305-fair-distribution-of-cookies](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/2305-fair-distribution-of-cookies) |
 ## Counting
 |  |
@@ -148,13 +150,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [2305-fair-distribution-of-cookies](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/2305-fair-distribution-of-cookies) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [2305-fair-distribution-of-cookies](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/2305-fair-distribution-of-cookies) |
 ## Bitmask
 |  |
 | ------- |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [2305-fair-distribution-of-cookies](https://github.com/Subhransu37/dsa-leetcode-hard/tree/master/2305-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
