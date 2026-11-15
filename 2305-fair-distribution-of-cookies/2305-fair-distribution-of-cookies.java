@@ -17,9 +17,12 @@ class Solution {
         }
         
         for(int i = 0; i < k ; i++){
+            if(cus[i] + co[j] >= ans )continue;
             cus[i] += co[j];
             distrubution(cus , co , k , j + 1);
             cus[i] -= co[j];
+
+            if(cus[i] == 0)break;
         }
 
         
