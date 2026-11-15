@@ -15,10 +15,13 @@ class Solution {
            ans = Math.min(max , ans);
            return ;
         }
+        
         for(int i = 0; i < k ; i++){
             cus[i] += co[j];
             distrubution(cus , co , k , j + 1);
             cus[i] -= co[j];
         }
+
+        
     }
 }
